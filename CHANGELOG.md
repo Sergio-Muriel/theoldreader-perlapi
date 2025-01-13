@@ -1,3 +1,10 @@
+## 0.7
+
+### Bug fix:
+
+- Fix #7 - Can't locate TheOldReader/GuiShared.pm
+- Updated readme.md file
+
 ## 0.6
 
 ### Bug fix:

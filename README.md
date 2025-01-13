@@ -22,7 +22,7 @@ On debian you can install the packages using the apt command:
 
     $ apt-get install libjson-perl libwww-perl libio-prompt-perl libcurses-ui-perl libnotify-bin
 
-    $ cpan -i Curses::UI::POE
+    $ cpanm Curses::UI::POE or  visit https://metacpan.org/pod/Curses::UI::POE to get install instructions of Curses::UI::POE
 
 ### If you don't want the gui, just install
 

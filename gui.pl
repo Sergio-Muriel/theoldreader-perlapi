@@ -1,7 +1,11 @@
 #!/usr/bin/perl -w
 use strict;
 use warnings;
+
+BEGIN {push @INC, '.'}
+
 use Getopt::Long;
+use Curses::UI::POE;
 use Data::Dumper;
 use Carp qw(croak);
 use TheOldReader::GuiShared;
